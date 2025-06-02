@@ -66,20 +66,6 @@ To develop a comprehensive AI/ML-based scouting report for NFL draft prospects a
 2. Evaluate the model’s performance using appropriate metrics.
     - Refine the model if necessary.
 
-#### 5: Draft Simulation
-1. Develop algorithms to simulate the NFL draft.
-2. Integrate the AI/ML model to recommend players for drafting.
-3. Run simulations and analyze the results.
-
-#### 6: Web Application Development
-1. Design and develop a web application to visualize the results.
-    - Include visualizations for team analyses, player rankings, and draft simulations.
-2. Test the application to ensure accurate and efficient performance.
-
-#### 7: Project Finalization
-1. Review and refine all components of the project.
-2. Document the code, model, and simulation algorithms.
-3. Prepare a final report summarizing the project, methodology, results, and conclusions.
 
 ### Weekly Updates
 - Every Monday, provide a detailed update on the progress.
